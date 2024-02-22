@@ -18,6 +18,7 @@ Applica stili differenti agli elementi aggiunti al DOM nel *BONUS 1*, a seconda 
 ## Svolgimento
 1. Scrivo un ciclo che mandi in console numeri da 1 a 100
 2. Creo una condizione per assegnare un valore diverso ai multipli di 3
-3. Creo una seconda condizione per assegnare un valore diverso se i numeri sono sia multipli di 3 che di 5
-4. Bonus 1 - Stampo in pagina
-5. Bonus 2 - Mi occupo del lato grafico della pagina
+3. Creo una condizione per assegnare un valore diverso ai multipli di 5
+4. Creo una seconda condizione per assegnare un valore diverso se i numeri sono sia multipli di 3 che di 5
+5. Bonus 1 - Stampo in pagina
+6. Bonus 2 - Mi occupo del lato grafico della pagina
